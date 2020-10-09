@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Timepass\Timepass\bin\Debug\Timepass.exe
+C:\Users\admin\Desktop\Timepass\Timepass\bin\Debug\Timepass.pdb
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.Form1.resources
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.Properties.Resources.resources
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.exe
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.pdb
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Timepass\Timepass\obj\x86\Debug\Timepass.About.resources
